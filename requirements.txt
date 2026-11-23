@@ -1,0 +1,29 @@
+
+# YouTube API
+google-api-python-client
+
+# Transcript extraction
+youtube-transcript-api
+
+# Environment configuration
+python-dotenv
+
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Embeddings
+langchain-huggingface
+sentence-transformers
+
+# Vector database
+langchain-chroma
+chromadb
+
+# LLM
+langchain-groq
+
+# Data validation
+pydantic
