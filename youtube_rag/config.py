@@ -18,3 +18,6 @@ CHUNK_OVERLAP = 200
 
 # Vector database path
 CHROMA_DB_PATH = "data/chroma_db"
+
+
+GROQ_MODEL = "openai/gpt-oss-20b"
